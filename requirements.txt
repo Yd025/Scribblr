@@ -1,0 +1,7 @@
+elevenlabs
+google-genai
+sounddevice
+numpy
+pyserial
+matplotlib
+scipy
